@@ -1,0 +1,125 @@
+﻿  yolo_console_dll.cpp
+E:\Yolov5\Test01\yolo_v2_class.hpp(76,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“yolo_console_dll.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(105,48): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“yolo_console_dll.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(105,59): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“yolo_console_dll.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(105,70): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“yolo_console_dll.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(105,81): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“yolo_console_dll.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(192,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“yolo_console_dll.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(195,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“yolo_console_dll.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(203,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“yolo_console_dll.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(212,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“yolo_console_dll.cpp”)
+  
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,52): warning C4244: “参数”: 从“unsigned int”转换到“_Tp”，可能丢失数据
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,52): warning C4244:         with
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,52): warning C4244:         [
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,52): warning C4244:             _Tp=float
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,52): warning C4244:         ]
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,44): warning C4244: “参数”: 从“unsigned int”转换到“_Tp”，可能丢失数据
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,44): warning C4244:         with
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,44): warning C4244:         [
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,44): warning C4244:             _Tp=float
+E:\Yolov5\Test01\yolo_console_dll.cpp(732,44): warning C4244:         ]
+  yolo_v2_class.cpp
+D:\Third Party\Darknet\darknet-master\3rdparty\pthreads\include\pthread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(76,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(105,48): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(105,59): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(105,70): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(105,81): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(192,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(195,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(203,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.hpp(212,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\activations.h(50,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\activations.h(72,82): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\activations.h(72,59): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\activations.h(126,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\activations.h(126,104): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\activations.h(126,122): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“yolo_v2_class.cpp”)
+  
+D:\Third Party\Darknet\darknet-master\3rdparty\pthreads\include\pthread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“yolo_v2_class.cpp”)
+  
+E:\Yolov5\Test01\yolo_v2_class.cpp(41,26): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(240,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(330,30): warning C4244: “=”: 从“const _Ty”转换到“unsigned int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(330,30): warning C4244:         with
+E:\Yolov5\Test01\yolo_v2_class.cpp(330,30): warning C4244:         [
+E:\Yolov5\Test01\yolo_v2_class.cpp(330,30): warning C4244:             _Ty=double
+E:\Yolov5\Test01\yolo_v2_class.cpp(330,30): warning C4244:         ]
+E:\Yolov5\Test01\yolo_v2_class.cpp(331,30): warning C4244: “=”: 从“const _Ty”转换到“unsigned int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(331,30): warning C4244:         with
+E:\Yolov5\Test01\yolo_v2_class.cpp(331,30): warning C4244:         [
+E:\Yolov5\Test01\yolo_v2_class.cpp(331,30): warning C4244:             _Ty=double
+E:\Yolov5\Test01\yolo_v2_class.cpp(331,30): warning C4244:         ]
+E:\Yolov5\Test01\yolo_v2_class.cpp(332,25): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(333,25): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(400,34): warning C4244: “=”: 从“const _Ty”转换到“unsigned int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(400,34): warning C4244:         with
+E:\Yolov5\Test01\yolo_v2_class.cpp(400,34): warning C4244:         [
+E:\Yolov5\Test01\yolo_v2_class.cpp(400,34): warning C4244:             _Ty=double
+E:\Yolov5\Test01\yolo_v2_class.cpp(400,34): warning C4244:         ]
+E:\Yolov5\Test01\yolo_v2_class.cpp(401,34): warning C4244: “=”: 从“const _Ty”转换到“unsigned int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(401,34): warning C4244:         with
+E:\Yolov5\Test01\yolo_v2_class.cpp(401,34): warning C4244:         [
+E:\Yolov5\Test01\yolo_v2_class.cpp(401,34): warning C4244:             _Ty=double
+E:\Yolov5\Test01\yolo_v2_class.cpp(401,34): warning C4244:         ]
+E:\Yolov5\Test01\yolo_v2_class.cpp(402,27): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(403,27): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(453,43): warning C4244: “初始化”: 从“float”转换到“unsigned int”，可能丢失数据
+E:\Yolov5\Test01\yolo_v2_class.cpp(454,34): warning C4018: “<”: 有符号/无符号不匹配
+E:\Yolov5\Test01\yolo_v2_class.cpp(456,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  204 of 1093 functions (18.7%) were compiled, the rest were copied from previous compilation.
+    23 functions were new in current compilation
+    71 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Test01.vcxproj -> E:\Yolov5\Test01\x64\Release\Test01.exe

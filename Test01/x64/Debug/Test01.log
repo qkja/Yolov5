@@ -1,0 +1,278 @@
+﻿  activations.c
+  activation_layer.c
+  art.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  avgpool_layer.c
+  (编译源文件“activations.c”)
+  
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“activation_layer.c”)
+  
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“art.c”)
+  
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“avgpool_layer.c”)
+  
+  batchnorm_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“batchnorm_layer.c”)
+  
+  blas.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“blas.c”)
+  
+  box.c
+E:\Yolov5\Test01\box.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“box.c”)
+  
+  captcha.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“captcha.c”)
+  
+  cifar.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“cifar.c”)
+  
+  classifier.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“classifier.c”)
+  
+  coco.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“coco.c”)
+  
+  col2im.c
+  compare.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“compare.c”)
+  
+  connected_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“connected_layer.c”)
+  
+  convolutional_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“convolutional_layer.c”)
+  
+  conv_lstm_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“conv_lstm_layer.c”)
+  
+  cost_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“cost_layer.c”)
+  
+  cpu_gemm.c
+  crnn_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“crnn_layer.c”)
+  
+  crop_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“crop_layer.c”)
+  
+  正在生成代码...
+  正在编译...
+  darknet.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“darknet.c”)
+  
+  dark_cuda.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“dark_cuda.c”)
+  
+  data.c
+E:\Yolov5\Test01\data.h(3,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“data.c”)
+  
+  deconvolutional_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“deconvolutional_layer.c”)
+  
+  demo.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“demo.c”)
+  
+  detection_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“detection_layer.c”)
+  
+  detector.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“detector.c”)
+  
+  dice.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“dice.c”)
+  
+  dropout_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“dropout_layer.c”)
+  
+  gaussian_yolo_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“gaussian_yolo_layer.c”)
+  
+  gemm.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“gemm.c”)
+  
+  gettimeofday.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“gettimeofday.c”)
+  
+  go.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“go.c”)
+  
+  gru_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“gru_layer.c”)
+  
+  im2col.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“im2col.c”)
+  
+  image.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“image.c”)
+  
+  layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“layer.c”)
+  
+  list.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“list.c”)
+  
+  local_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“local_layer.c”)
+  
+  lstm_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“lstm_layer.c”)
+  
+  正在生成代码...
+  正在编译...
+  matrix.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“matrix.c”)
+  
+  maxpool_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“maxpool_layer.c”)
+  
+  network.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“network.c”)
+  
+  nightmare.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“nightmare.c”)
+  
+  normalization_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“normalization_layer.c”)
+  
+  option_list.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“option_list.c”)
+  
+  parser.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“parser.c”)
+  
+  region_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“region_layer.c”)
+  
+  reorg_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“reorg_layer.c”)
+  
+  reorg_old_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“reorg_old_layer.c”)
+  
+  representation_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“representation_layer.c”)
+  
+  rnn.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“rnn.c”)
+  
+  rnn_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“rnn_layer.c”)
+  
+  rnn_vid.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“rnn_vid.c”)
+  
+  route_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“route_layer.c”)
+  
+  sam_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“sam_layer.c”)
+  
+  scale_channels_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“scale_channels_layer.c”)
+  
+  shortcut_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“shortcut_layer.c”)
+  
+  softmax_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“softmax_layer.c”)
+  
+  super.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“super.c”)
+  
+  正在生成代码...
+  正在编译...
+  swag.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“swag.c”)
+  
+  tag.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“tag.c”)
+  
+  tree.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“tree.c”)
+  
+  upsample_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“upsample_layer.c”)
+  
+  utils.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“utils.c”)
+  
+  voxel.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“voxel.c”)
+  
+  writing.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“writing.c”)
+  
+  yolo.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“yolo.c”)
+  
+  yolo_layer.c
+E:\Yolov5\Test01\darknet.h(17,10): error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  (编译源文件“yolo_layer.c”)
+  
+  正在生成代码...
